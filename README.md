@@ -1,4 +1,4 @@
-# Spaceship Titanic - Classification Challenge
+# Spaceship Titanic - Kaggle Classification Challenge
 
 Predict which passengers were transported to an alternate dimension during the mysterious accident on the **Spaceship Titanic**. This project is based on a Kaggle competition and is a binary classification task.
 
